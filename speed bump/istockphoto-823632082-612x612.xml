@@ -1,0 +1,38 @@
+<annotation>
+	<folder>speed bump</folder>
+	<filename>istockphoto-823632082-612x612.jpg</filename>
+	<path>E:\images\speed bump\istockphoto-823632082-612x612.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>481</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>speed-breaker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>210</xmin>
+			<ymin>39</ymin>
+			<xmax>397</xmax>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pedestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>216</xmin>
+			<ymin>214</ymin>
+			<xmax>398</xmax>
+			<ymax>388</ymax>
+		</bndbox>
+	</object>
+</annotation>

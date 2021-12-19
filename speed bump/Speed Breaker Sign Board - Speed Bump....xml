@@ -1,0 +1,26 @@
+<annotation>
+	<folder>speed bump</folder>
+	<filename>Speed Breaker Sign Board - Speed Bump....png</filename>
+	<path>E:\images\speed bump\Speed Breaker Sign Board - Speed Bump....png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>860</width>
+		<height>803</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>speed-breaker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>120</ymin>
+			<xmax>757</xmax>
+			<ymax>718</ymax>
+		</bndbox>
+	</object>
+</annotation>

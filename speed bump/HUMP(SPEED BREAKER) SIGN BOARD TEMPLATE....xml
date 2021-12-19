@@ -1,0 +1,26 @@
+<annotation>
+	<folder>speed bump</folder>
+	<filename>HUMP(SPEED BREAKER) SIGN BOARD TEMPLATE....jpg</filename>
+	<path>E:\images\speed bump\HUMP(SPEED BREAKER) SIGN BOARD TEMPLATE....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>690</width>
+		<height>575</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>speed-breaker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>171</xmin>
+			<ymin>111</ymin>
+			<xmax>542</xmax>
+			<ymax>454</ymax>
+		</bndbox>
+	</object>
+</annotation>

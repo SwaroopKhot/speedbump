@@ -1,0 +1,26 @@
+<annotation>
+	<folder>speed bump</folder>
+	<filename>At Highway Speed Bump Signboard Stock....jpg</filename>
+	<path>E:\images\speed bump\At Highway Speed Bump Signboard Stock....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>478</width>
+		<height>612</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>speed-breaker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>33</ymin>
+			<xmax>278</xmax>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+</annotation>

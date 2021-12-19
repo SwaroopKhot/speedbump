@@ -1,0 +1,26 @@
+<annotation>
+	<folder>speed bump</folder>
+	<filename>Road Humps Thermoplastic Road Marking....jpg</filename>
+	<path>E:\images\speed bump\Road Humps Thermoplastic Road Marking....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1800</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>speed-breaker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>367</xmin>
+			<ymin>100</ymin>
+			<xmax>1438</xmax>
+			<ymax>1090</ymax>
+		</bndbox>
+	</object>
+</annotation>

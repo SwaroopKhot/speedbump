@@ -1,0 +1,26 @@
+<annotation>
+	<folder>speed bump</folder>
+	<filename>board by The Crown Engineer_ display....jpeg</filename>
+	<path>E:\images\speed bump\board by The Crown Engineer_ display....jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>548</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>speed-breaker</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>1</ymin>
+			<xmax>547</xmax>
+			<ymax>466</ymax>
+		</bndbox>
+	</object>
+</annotation>

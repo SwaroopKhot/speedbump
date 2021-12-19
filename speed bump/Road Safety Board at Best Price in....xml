@@ -1,0 +1,26 @@
+<annotation>
+	<folder>speed bump</folder>
+	<filename>Road Safety Board at Best Price in....jpg</filename>
+	<path>E:\images\speed bump\Road Safety Board at Best Price in....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>speed-breaker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>194</xmin>
+			<ymin>76</ymin>
+			<xmax>308</xmax>
+			<ymax>191</ymax>
+		</bndbox>
+	</object>
+</annotation>

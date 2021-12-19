@@ -1,0 +1,26 @@
+<annotation>
+	<folder>speed bump</folder>
+	<filename>Speed Breaker Sign Board On Road Side....jpg</filename>
+	<path>E:\images\speed bump\Speed Breaker Sign Board On Road Side....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>408</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>speed-breaker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>383</xmin>
+			<ymin>143</ymin>
+			<xmax>453</xmax>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+</annotation>
