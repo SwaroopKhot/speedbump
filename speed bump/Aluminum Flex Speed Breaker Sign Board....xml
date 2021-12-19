@@ -1,0 +1,26 @@
+<annotation>
+	<folder>speed bump</folder>
+	<filename>Aluminum Flex Speed Breaker Sign Board....jpg</filename>
+	<path>E:\images\speed bump\Aluminum Flex Speed Breaker Sign Board....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>speed-breaker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>53</ymin>
+			<xmax>360</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>
