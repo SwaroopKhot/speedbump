@@ -1,0 +1,38 @@
+<annotation>
+	<folder>speed bump</folder>
+	<filename>speed breakers and speed humps in India....png</filename>
+	<path>E:\images\speed bump\speed breakers and speed humps in India....png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>speed-breaker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>25</ymin>
+			<xmax>142</xmax>
+			<ymax>127</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>speed-breaker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>168</xmin>
+			<ymin>25</ymin>
+			<xmax>281</xmax>
+			<ymax>126</ymax>
+		</bndbox>
+	</object>
+</annotation>

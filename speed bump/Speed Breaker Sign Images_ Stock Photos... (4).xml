@@ -1,0 +1,26 @@
+<annotation>
+	<folder>speed bump</folder>
+	<filename>Speed Breaker Sign Images_ Stock Photos... (4).jpg</filename>
+	<path>E:\images\speed bump\Speed Breaker Sign Images_ Stock Photos... (4).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>462</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>speed-breaker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>190</xmin>
+			<ymin>39</ymin>
+			<xmax>300</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+</annotation>
